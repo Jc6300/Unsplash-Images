@@ -16,7 +16,7 @@ const SearchForm = () => {
 					type="text"
 					className="form-input search-input"
 					name="search"
-					placeholder="cities"
+					placeholder="city"
 				/>
 				<button className="btn">search</button>
 			</form>
